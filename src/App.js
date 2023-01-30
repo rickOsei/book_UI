@@ -12,7 +12,7 @@ function App() {
           path="/home"
           element={
             <ProtectedRoute>
-              <Books />{" "}
+              <Books />
             </ProtectedRoute>
           }
         />
